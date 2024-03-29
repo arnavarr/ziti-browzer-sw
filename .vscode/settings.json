@@ -1,0 +1,27 @@
+{
+    "cloudcode.duetAI.languages": [
+        "rust",
+        "javascript",
+        "dockerfile",
+        "css",
+        "dockercompose",
+        "html",
+        "git-commit",
+        "git-rebase",
+        "javascriptreact",
+        "powershell",
+        "makefile",
+        "shellscript",
+        "json",
+        "bibtex",
+        "go",
+        "latex",
+        "markdown",
+        "typescript",
+        "yaml",
+        "sql",
+        "terraform",
+        "python"
+    ],
+    "cloudcode.duetAI.project": "sys-98306826038199112897733762"
+}
